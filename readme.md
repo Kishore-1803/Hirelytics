@@ -158,13 +158,3 @@ http://127.0.0.1:8000/docs
 - Integrate **analytics dashboard** for usage insights  
 
 ---
-
-## 👨‍💻 Author
-**Kishore B**  
-B.Tech CSE (AI) — 3rd Year  
-Hirelytics © 2025
-
----
-
-## 🏁 License
-This project is released under the **MIT License**.
