@@ -120,7 +120,7 @@ uvicorn main:app --reload
 ---
 
 ## 📂 Project Structure
-
+```
 HireLytics/
 ├── Experiments/
 │   ├── Predictions_1.csv        
@@ -133,7 +133,7 @@ HireLytics/
 ├── evaluate.py                  
 ├── main.py                      
 └── README.md                    
-
+```
 
 ---
 
@@ -151,3 +151,4 @@ See the [LICENSE](LICENSE) file for details.
 ---
 
 ⭐ Star the repo if you find it useful!
+
