@@ -121,15 +121,19 @@ uvicorn main:app --reload
 
 ## 📂 Project Structure
 
-```
-hirelytics/
-├── app/
-├── data/
-├── Dockerfile
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
+HireLytics/
+├── Experiments/
+│   ├── Predictions_1.csv        
+│   ├── Predictions_2.csv        
+│   └── Predictions_3.csv        
+│
+├── LICENSE                     
+├── Page.html                    
+├── Predictions.csv              
+├── evaluate.py                  
+├── main.py                      
+└── README.md                    
+
 
 ---
 
