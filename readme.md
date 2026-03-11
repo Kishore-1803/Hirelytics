@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-ready-success)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Gemini](https://img.shields.io/badge/Gemini)
 ![Azure](https://img.shields.io/badge/Deployed%20on-Azure-0078D4)
 ![LLM](https://img.shields.io/badge/LLM-Gemini%202.5%20Flash-purple)
 ![VectorDB](https://img.shields.io/badge/VectorDB-pgvector-orange)
